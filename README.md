@@ -23,7 +23,7 @@ ulom.
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/Lex-ai-team/jacq-frontend
+   git clone https://github.com/Sammy212/ulom-client.git
 
 2. Install dependencies:
     ```shell
